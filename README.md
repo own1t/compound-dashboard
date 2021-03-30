@@ -8,7 +8,11 @@
 
 - Integrated CompoundJS library to interact with Compound Protocols from server side.
 
-- Implemented multiple APY calculators based on Compound Protocol Math to display data for each cryptocurrency listed on Compound Application.
+- Implemented multiple APY calculators based on Compound Protocol Math to display data for each asset listed on Compound Application.
+
+- Deployed with Vercel
+
+You can check this application from <a href="https://compound-dashboard-delta.vercel.app/" target="_blank">here</a>.
 
 ### Protocol Math from Compound Doc
 
