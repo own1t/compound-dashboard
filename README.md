@@ -14,7 +14,7 @@
 
 You can check this application from <a href="https://compound-dashboard-delta.vercel.app/" target="_blank">here</a>.
 
-### Protocol Math from Compound Doc
+## Protocol Math from Compound Doc
 
 ![alt text](https://github.com/own1t/compound-dashboard/blob/main/previews/compound1.png)
 
