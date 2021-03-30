@@ -1,0 +1,62 @@
+.content_container {
+  /* border: 1px solid red; */
+
+  width: 90%;
+  border: 1px solid #04d394;
+  border-radius: 4px;
+  font-size: 1rem;
+  height: 100%;
+}
+
+.content_header {
+  /* border: 1px solid red; */
+
+  background-color: #101012;
+}
+
+.header_list {
+  /* border: 1px solid red; */
+
+  display: grid;
+  grid-template-columns: repeat(7, auto);
+  height: 80px;
+  padding: 0 2rem;
+}
+
+.header_item {
+  /* border: 1px solid red; */
+
+  display: flex;
+  align-items: center;
+
+  padding: 1rem;
+  color: #04d394;
+}
+
+.content_body {
+  /* border: 1px solid red; */
+
+  width: 100%;
+}
+
+.content_row {
+  /* border: 1px solid red; */
+
+  display: grid;
+  grid-template-columns: repeat(7, auto);
+  padding: 0 2rem;
+}
+
+.content_item {
+  /* border: 1px solid red; */
+
+  display: flex;
+  align-items: center;
+  padding: 1rem;
+}
+
+.crypto_img {
+  width: 25px;
+  height: 25px;
+  margin-right: 10px;
+}
