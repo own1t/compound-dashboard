@@ -6,7 +6,7 @@
 
 - Engineered a single page application using NextJS to enhance simplicity and efficiency for front-end development
 
-- Integrated CompoundJS library to interact with Compound Protocols from server side.
+- Integrated CompoundJS library to retrieve Compound data to interact with Compound Protocols.
 
 - Implemented multiple APY calculators based on Compound Protocol Math to display data for each asset listed on Compound Application.
 
