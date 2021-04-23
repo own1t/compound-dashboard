@@ -1,4 +1,4 @@
-## CryptoCurrency Dashboard
+## Compound Dashboard
 
 ![alt text](https://github.com/own1t/compound-dashboard/blob/main/previews/compound-dashboard.png)
 
